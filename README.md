@@ -1,9 +1,9 @@
 # Habitat - Matterport 3D Research Dataset
 
-Matterport and Facebook AI Research are collaborating to release the world's largest dataset of 3D spaces. This is available exclusively for academic, non-commercial uses. The Habitat-Matterport 3D Research Dataset (HM3D) is an unprecedented collection of high-resolution Matterport digital twins made up of residential and commercial spaces.
+Matterport and Facebook AI Research are collaborating to release the world's largest dataset of 3D spaces. This is available exclusively for academic, non-commercial uses. The Habitat-Matterport 3D Research Dataset (HM3D) is an unprecedented collection of high-resolution Matterport digital twins made up of residential, commercial, and civic spaces.
 
 The dataset consists of 3D Meshes & Textures of 1,000 Matterport spaces and includes:
--   3D mesh file (OBJ)
+-   3D mesh file (OBJ & GLB)
 -   JPG texture map image files
 -   MTL file
 
