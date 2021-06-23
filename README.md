@@ -10,8 +10,8 @@ The dataset consists of 3D Meshes & Textures of 1,000 Matterport spaces and incl
 Here’s a preview of selected spaces that are part of this library,
 
 <p align="middle">
-  <img src="./images/left.png" width="100" />
-  <img src="./images/right.png" width="100" /> 
+  <img src="./images/left.png" />
+  <img src="./images/right.png" /> 
 </p>
 
 Access and use of the dataset are subject to the following [Terms & Conditions](https://matterport.com/matterport-end-user-license-agreement-academic-use-model-data)
