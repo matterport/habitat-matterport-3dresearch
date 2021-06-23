@@ -7,6 +7,10 @@ The dataset consists of 3D Meshes & Textures of 1,000 Matterport spaces and incl
 -   JPG texture map image files
 -   MTL file
 
+Here’s a preview of selected spaces that are part of this library,
+
+![](./images/left.png) ![](./images/right.png)
+
 Access and use of the dataset are subject to the following [Terms & Conditions](https://matterport.com/matterport-end-user-license-agreement-academic-use-model-data)
 
 **Dataset:**
