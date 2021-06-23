@@ -16,7 +16,6 @@ Here’s a preview of selected spaces that are part of this library,
 
 Access and use of the dataset are subject to the following [Terms & Conditions](https://matterport.com/matterport-end-user-license-agreement-academic-use-model-data)
 
-**Dataset:**
 |File Name|Data Set|Format|Link|Size|
 |--|--|--|--|--|
 |hm3d-minival-glb.tar|minival|glb|https://api.matterport.com/resources/habitat/hm3d-minival-glb.tar |465M|
