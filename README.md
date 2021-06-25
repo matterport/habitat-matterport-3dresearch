@@ -20,7 +20,7 @@ Access and use of the dataset are subject to the following [Terms & Conditions](
 |--|--|--|--|--|
 |hm3d-minival-glb.tar|minival|glb|https://api.matterport.com/resources/habitat/hm3d-minival-glb.tar |465M|
 |hm3d-minival-habitat.tar|minival|habitat| https://api.matterport.com/resources/habitat/hm3d-minival-habitat.tar |393M|
-|hm3d-minival-obj+mtl.tar.gz|minival|obj+mtl| https://api.matterport.com/resources/habitat/obj+mtl.tar.gz|444M|
+|hm3d-minival-obj+mtl.tar.gz|minival|obj+mtl| https://api.matterport.com/resources/habitat/hm3d-minival-obj+mtl.tar.gz|444M|
 |hm3d-train-glb.tar|train|glb| https://api.matterport.com/resources/habitat/hm3d-train-glb.tar|32G|
 |hm3d-train-habitat.tar|train|habitat|https://api.matterport.com/resources/habitat/hm3d-train-glb.tar |26G|
 |hm3d-train-obj+mtl.tar.gz|train|obj+mtl| https://api.matterport.com/resources/habitat/hm3d-train-obj+mtl.tar.gz|30G|
