@@ -27,4 +27,8 @@ Access and use of the dataset are subject to the following [Terms & Conditions](
 |hm3d-val-glb.tar|val|glb| https://api.matterport.com/resources/habitat/hm3d-val-glb.tar|4G|
 |hm3d-val-habitat.tar|val|habitat| https://api.matterport.com/resources/habitat/hm3d-val-habitat.tar|3.3G|
 |hm3d-val-obj+mtl.tar.gz|val|obj+mtl| https://api.matterport.com/resources/habitat/hm3d-val-obj+mtl.tar.gz|3.8G|
+|hm3d-example-configs.tar|example|configs|[hm3d-example-configs.tar](example/hm3d-example-configs.tar)|10K|
+|hm3d-example-glb.tar**|example|glb|[hm3d-example-glb.tar](example/hm3d-example-glb.tar)|186M|
+|hm3d-example-habitat.tar**|example|habitat|[hm3d-example-habitat.tar](example/hm3d-example-habitat.tar)|155M|
+|hm3d-example-obj+mtl.tar.gz|example|obj+mtl|[hm3d-example-obj+mtl.tar.gz](example/hm3d-example-obj+mtl.tar.gz)|179M|
 
