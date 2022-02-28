@@ -7,6 +7,8 @@ The dataset consists of 3D Meshes & Textures of 1,000 Matterport spaces and incl
 -   JPG texture map image files
 -   MTL file
 
+**NOTE:** Semantic annotations for these scenes are work-in-progress, check back later for additional updates. Currently (v0.1), a subset of 100 annotated scenes (80 train | 20 val) is available for use with the Habitat simulator! See `hm3d-semantics-v0.1-train-val-annots.tar.gz` in the table below.
+
 Here’s a preview of selected spaces that are part of this library,
 
 <p align="middle">
@@ -31,4 +33,4 @@ Access and use of the dataset are subject to the following [Terms & Conditions](
 |hm3d-example-glb.tar**|example|glb|[hm3d-example-glb.tar](example/hm3d-example-glb.tar)|186M|
 |hm3d-example-habitat.tar**|example|habitat|[hm3d-example-habitat.tar](example/hm3d-example-habitat.tar)|155M|
 |hm3d-example-obj+mtl.tar.gz|example|obj+mtl|[hm3d-example-obj+mtl.tar.gz](example/hm3d-example-obj+mtl.tar.gz)|179M|
-
+|hm3d-semantics-v0.1-train-val-annots.tar.gz|train+val|habitat|https://api.matterport.com/resources/habitat/hm3d-semantics-v0.1-train-val-annots.tar.gz|2.5G|
