@@ -47,7 +47,7 @@ Access and use of the dataset are subject to the following [Terms & Conditions](
 |--|--|--|--|--|
 |hm3d-minival-glb-v0.2.tar|train|glb| https://api.matterport.com/resources/habitat/hm3d-minival-glb-v0.2.tar |464M|
 |hm3d-minival-habitat-v0.2.tar|train|habitat|https://api.matterport.com/resources/habitat/hm3d-minival-habitat-v0.2.tar |390M|
-|hm3d-minival-semantic-annots-v0.2.tar.gz|minival|semantic-annots| https://api.matterport.com/resources/habitat/hm3d-minival-semantic-annots-v0.2.tar.gz |240.6M|
+|hm3d-minival-semantic-annots-v0.2.tar|minival|semantic-annots| https://api.matterport.com/resources/habitat/hm3d-minival-semantic-annots-v0.2.tar |240.6M|
 |hm3d-minival-semantic-configs-v0.2.tar|minival|semantic-configs| https://api.matterport.com/resources/habitat/hm3d-minival-semantic-configs-v0.2.tar |30K|
 |hm3d-train-glb-v0.2.tar|train|glb| https://api.matterport.com/resources/habitat/hm3d-train-glb-v0.2.tar |32G|
 |hm3d-train-habitat-v0.2.tar|train|habitat|https://api.matterport.com/resources/habitat/hm3d-train-habitat-v0.2.tar |27G|
@@ -59,6 +59,6 @@ Access and use of the dataset are subject to the following [Terms & Conditions](
 |hm3d-val-semantic-configs-v0.2.tar|val|semantic-configs| https://api.matterport.com/resources/habitat/hm3d-val-semantic-configs-v0.2.tar |40K|
 |hm3d-example-glb-v0.2.tar**|example|glb|[hm3d-example-glb-v0.2.tar](example/hm3d-example-glb-v0.2.tar)|186M|
 |hm3d-example-habitat-v0.2.tar**|example|habitat|[hm3d-example-habitat-v0.2.tar](example/hm3d-example-habitat-v0.2.tar)|154M|
-|hm3d-example-semantic-annots-v0.2.tar.gz|example|semantic-annots|[hm3d-example-semantic-annots-v0.2.tar.gz](example/hm3d-example-semantic-annots-v0.2.tar.gz)|60M|
+|hm3d-example-semantic-annots-v0.2.tar|example|semantic-annots|[hm3d-example-semantic-annots-v0.2.tar](example/hm3d-example-semantic-annots-v0.2.tar)|60M|
 |hm3d-example-semantic-configs-v0.2.tar|example|semantic-configs|[hm3d-example-semantic-configs-v0.2.tar](example/hm3d-example-semantic-configs-v0.2.tar)|30K|
 
