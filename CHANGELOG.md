@@ -9,7 +9,25 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 * Includes object annotations for 145 train / 36 val / 35 test scenes
     * Semantic annotation typo fixes to HM3DSem v0.1 scenes (e.g., toliet -> toilet)
     * Semantic annotation error fixes to HM3DSem v0.1 scenes (e.g., bed incorrectly named as sofa)
-    * Manually cleared debris in the following HM3D scenes: TODO
+    * Manually cleared debris to improve navigability in the following HM3D scenes:
+        * 00023-zepmXAdrpjR
+        * 00034-6imZUJGRUq4
+        * 00141-iigzG1rtanx
+        * 00172-bB6nKqfsb1z
+        * 00234-nACV8wLu1u5
+        * 00475-g7hUFVNac26
+        * 00476-NtnvZSMK3en
+        * 00546-nS8T59Aw3sf
+        * 00657-TSJmdttd2GV
+        * 00643-ggNAcMh8JPT
+        * 00738-GPyDUnjwZQy
+        * 00815-h1zeeAwLh9Z
+        * 00821-eF36g7L6Z9M
+        * 00847-bCPU9suPUw9
+        * 00878-XB4GS9ShBRE
+        * 00901-aJoC8Qw6xQ5
+        * 00910-jE7Qzu3FyJD
+        * 00951-RGvKsZAErEk
 
 * List of annotated train scenes:
     * 00006-HkseAnWCgqk
